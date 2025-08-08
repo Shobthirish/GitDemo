@@ -1,1 +1,3 @@
-<message>Hello from master</message>
+<message>Hello from GitWork</message>
+<update>GitWork update</update>
+<note>Merged with changes from master</note>
